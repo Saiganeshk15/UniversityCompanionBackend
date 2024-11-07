@@ -1,0 +1,7 @@
+node_modules/
+UniversityCompanionApp/
+.env
+
+.DS_Store
+
+expo-env.d.ts
